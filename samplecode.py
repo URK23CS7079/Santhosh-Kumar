@@ -1,2 +1,3 @@
-i=5
-print(i)
+x = 10
+y = 20 
+print (x + y)
